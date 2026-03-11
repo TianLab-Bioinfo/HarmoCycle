@@ -1,4 +1,3 @@
-
 # HarmoCycle
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -7,10 +6,11 @@
 <!-- Uncomment the line below after publication -->
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx) -->
 
-**[Title]**
+**HarmoCycle: Global spectral reconstruction of cellular dynamics and topological resolution of quiescence**
+
+⚠️ This repository is under active development. Additional documentation, tutorials, and reproducibility materials will be gradually updated alongside the manuscript evaluation process.
 
 [Introduction](#introduction) • [Installation](#installation) • [Usage](#usage) • [Reproducibility](#reproducibility) • [Citation](#citation)
-
 </div>
 
 ---
