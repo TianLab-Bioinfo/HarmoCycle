@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 If you find HarmoCycle useful for your research, please consider citing our preprint/manuscript:
 
 <!-- Placeholder for citation. Update this section after publication. -->
-> Wen, B., et al. (2025). HarmoCycle: A Novel Method for Cyclic Trajectory Inference in Single-Cell Data.
+> Wen, B., et al. (2025). HarmoCycle.
 
 ---
 
